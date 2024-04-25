@@ -12,6 +12,7 @@
     <module>learning-netty</module>
       <module>learning-timer</module>
       <module>learning-redisson</module>
+      <module>learning-spring</module>
   </modules>
 
   <name>learning-parent</name>
