@@ -6,4 +6,5 @@
                         http://www.lexueda.com/schema/user http://www.lexueda.com/schema/user.xsd">
 
     <myname:user id="testbean" userName="aaa" email="bbb"/>
+
 </beans>
