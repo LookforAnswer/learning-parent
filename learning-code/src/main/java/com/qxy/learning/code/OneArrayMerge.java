@@ -1,7 +1,7 @@
 package com.qxy.learning.code;
 
 
-public class ArrayMerge {
+public class OneArrayMerge {
 
 
     /**
