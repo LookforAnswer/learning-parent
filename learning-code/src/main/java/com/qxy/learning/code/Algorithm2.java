@@ -2,7 +2,7 @@ package com.qxy.learning.code;
 
 import java.util.Arrays;
 
-public class TwoArrayDel {
+public class Algorithm2 {
 
     /**
      * https://leetcode.cn/problems/remove-element/description/?envType=study-plan-v2&envId=top-interview-150

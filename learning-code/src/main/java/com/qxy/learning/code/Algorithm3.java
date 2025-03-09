@@ -1,6 +1,6 @@
 package com.qxy.learning.code;
 
-public class ThreeSortArrayRepeat {
+public class Algorithm3 {
 
 
     /**
